@@ -1,20 +1,14 @@
-# Olá, eu sou Antônio Francisco! <img src="https://github.com/tonny-rds.png?size=180" align="right" alt width="180" height="180" style="border-radius: 50%; margin-left: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+# Olá, eu sou Antônio Francisco!
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/antoniofranciscoreis" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:tonnyris987@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonnyrris987@gmail.com)
 
 ---
 
 ### Banco de Dados | Análise de Dados
 
 📍 Brasília, Distrito Federal, Brasil  
-🎲 Foco em Desenvolvimento em Banco de Dados  
+📊 Foco em Desenvolvimento em Banco de Dados  
 🚀 Atualmente desenvolvendo aplicações em Python, Jupyter Notebook e automações e Análise de Dados  
 🎯 Em busca da minha primeira oportunidade profissional na área Tecnológica  
 
@@ -28,34 +22,16 @@ Profissional em formação, com foco em computação, banco de dados, matemátic
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<table align="left">
-  <tr>
-    <td align="center" width="70">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    </td>
-    <td align="center" width="70">
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-    </td>
-    <td align="center" width="70">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    </td>
-    <td align="center" width="70">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </td>
-    <td align="center" width="70">
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-    </td>
-  </tr>
-</table>
-
-<br><br>
-<hr>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tonny-rds&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonny-rds&layout=compact&theme=radical&hide_border=true&alt=" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tonny-rds&show_icons=true&theme=transparent" alt="Estatísticas do GitHub">
 </p>
