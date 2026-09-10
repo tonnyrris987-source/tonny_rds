@@ -1,4 +1,4 @@
-# Olá, eu sou Antônio Francisco! <img src="https://github.com/tonnyris987-fonte.png?size=180" align="right" alt width="180" height="180" style="border-radius: 50%; margin-left: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+# Olá, eu sou Antônio Francisco! <img src="https://github.com/tonny-rds.png?size=180" align="right" alt width="180" height="180" style="border-radius: 50%; margin-left: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 
 <p align="left">
   <a href="https://www.linkedin.com/in/antoniofranciscoreis" target="_blank">
@@ -56,6 +56,6 @@ Profissional em formação, com foco em computação, banco de dados, matemátic
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tonnyris987-fonte&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnyris987-fonte&layout=compact&theme=radical&hide_border=true&alt=" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tonny-rds&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonny-rds&layout=compact&theme=radical&hide_border=true&alt=" />
 </p>
